@@ -24,4 +24,3 @@ Reference Addon is a real Addon, created to validate and demonstrate the Addons 
 	- kubectl/oc
 	- make
 	- either docker or podman
-  - not java
