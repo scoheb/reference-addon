@@ -1,1 +1,1 @@
-Some dummy patch for testing purposes
+Another dummy patch for testing purposes
