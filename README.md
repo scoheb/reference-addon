@@ -1,4 +1,4 @@
-# Reference Addon
+# Reference Addon Product
 
 <p align="center">
 	<img src="docs/logo/reference-addon-github.png" width=400px>
@@ -24,3 +24,4 @@ Reference Addon is a real Addon, created to validate and demonstrate the Addons 
 	- kubectl/oc
 	- make
 	- either docker or podman
+  - no java
